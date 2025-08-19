@@ -19,3 +19,5 @@ it is nothing but a certain template needed to be followed while creating an HTM
 Why it is needed?
 - without DOCTYPE, browsers may guess and switch to quirks mode (old, inconsistent rendering).
 - with DOCTYPE, browsers uses standard mode (modern, consistent rendering).
+- ensures your page looks the same in chrome, safari, firefox etc.
+- helps your html document pass as a valid HTML 5 file.
